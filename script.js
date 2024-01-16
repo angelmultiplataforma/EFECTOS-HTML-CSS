@@ -1,6 +1,9 @@
-var swiper=new Swiper(".mySwiper", {
+
+
+
+var swiper=new Swiper(".mySwiper", {  //DECLARA E INSTANCIA LA VARIABLE SWIPPER
     effect: "coverflow",
-    grabCursor: true,
+    grabCursor: true,                 //APLICA PROPIEDADES QUE VIENEN DE LA LIBRERIA
     centeredSlides: true,
     slidesPerView: "auto",
     coverflowEffect: {

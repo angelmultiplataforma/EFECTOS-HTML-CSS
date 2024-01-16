@@ -6,7 +6,7 @@
 }
 
 body{
-    height: 100vh;
+    height: 100vh;                   /* vh es la unidad de altura de la ventana gráfica y representa un porcentaje. 50vh significa el 50% de la altura de la ventana gráfica. */
     background-color:#F5F5F5;
 }
 
